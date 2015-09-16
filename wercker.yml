@@ -23,4 +23,4 @@ build:
             token: $git_token
             file: PC-Payment-Software.jar
             filename: app-v1.0.0.jar
-            content-type: application/zip
+            content-type: application/java-archive
