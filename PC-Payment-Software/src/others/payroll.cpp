@@ -40,7 +40,7 @@ int menu()
 {
   int choice;
 
-  cout << "0. Quit\n";
+  cout << "0. Quit \n";
   cout << "1. Enter information\n";
   cout << "2. Report information\n";
   cout << "\nChoose one: ";
